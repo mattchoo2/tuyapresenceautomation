@@ -13,12 +13,12 @@ This is a guide on my experience with a few Tuya Presence sensor variants & Auto
  **Caveat:** As I only tested half of the variant (2 out of 4), below are opinions for your own judgement.
  
  **1.  24G Presence sensor - WiFi version** 
-      - 24G version has issue on data passthrough to homeassistant, you will get "motion detected" *(instead of the wanted "presence detected")*
-      - Performance very inconsistent expecially after Q4 2024.  After device update, detector sometime just stop working or random detection of motion when nothing is there.
+<br>    - 24G version has issue on data passthrough to homeassistant, you will get "motion detected" *(instead of the wanted "presence detected")*
+<br>    - Performance very inconsistent expecially after Q4 2024.  After device update, detector sometime just stop working or random detection of motion when nothing is there.
       
  **2. 5.8G Presence sensor - Zigbee version** 
-    - ***5.8G version is recommended*** as data passthrough to homeassistant is the wanted "presence detected"
-    - Presence detection is accurate and better refined over time.
+<br>    - ***5.8G version is recommended*** as data passthrough to homeassistant is the wanted "presence detected"
+<br>    - Presence detection is accurate and better refined over time.
 
 
 ## Prior Setup
