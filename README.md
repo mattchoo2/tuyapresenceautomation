@@ -1,6 +1,6 @@
 # Tuya Presence Automation with HomeAssistant
 
-This is a guide on my experience with a few Tuya Presence sensor variants & Setup guide with HomeAssistant.
+This is a guide on my experience with a few Tuya Presence sensor variants & Automation setup guide with HomeAssistant.
 
 ## Tuya Presence Sensor Variants
 
