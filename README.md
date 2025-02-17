@@ -64,3 +64,7 @@ This is a guide on my experience with a few Tuya Presence sensor variants & Auto
 ### Night Time Exception
 1. For some space/ room, you may want to set exception rule where the OFF trigger will not take action e.g. Living Room  at night.
 2. You can use the "And if" rule to set the boundry where OFF trigger will not take action.
+
+
+## Support Me 💖
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/mattchoo2)
